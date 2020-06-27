@@ -5,5 +5,5 @@ common repositories：lispy+echoServer+testMakefile+injectJs-PYQT5
 ## echoServer
 - 单线程select多路复用echoServer测试
 
-![img](https://github.com/lzc978/common/QPS.png)
+![img](https://github.com/lzc978/common/blob/master/QFS.png)
 

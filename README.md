@@ -5,32 +5,32 @@
 
 [TOC]
 
-## lispy [[lispy]](http://www.baidu.com "lispy")
+## lispy [[lispy]](https://github.com/lzc978/common/blob/master/re.md "lispy")
 - c写成的common lisp编译器
-## echoServer [[echoServer]](http://www.baidu.com "echoServer")
+## echoServer [[echoServer]](https://github.com/lzc978/common/tree/master/echoServer "echoServer")
 - 单线程select多路复用echoServer性能测试（c/python/golang）
 
 - ![img](https://github.com/lzc978/common/blob/master/QFS.png)
 
-## testMakefile [[testMakefile]](http://www.baidu.com "testMakefile")
+## testMakefile [[testMakefile]](https://github.com/lzc978/common/blob/master/testMakefile.mk "testMakefile")
 
 - Makefile通用型模板
 
-## miniFrame [[miniFrame]](http://www.baidu.com "miniFrame")
+## miniFrame [[miniFrame]](https://github.com/lzc978/common/tree/master/miniFrame "miniFrame")
 
 - miniFrame，遵循REST-ful风格（python）
 
-## injectJs-PYQT5 [[injectJs-PYQT5]](http://www.baidu.com "injectJs-PYQT5")
+## injectJs-PYQT5 [[injectJs-PYQT5]](https://github.com/lzc978/common/tree/master/src/injectJs-PYQT5 "injectJs-PYQT5")
 
 - js脚本注入pyqt5浏览器（javascript/python）
 
-## simple IOT-System [[simple IOT-System]](http://www.baidu.com "simple IOT-System")
+## simple IOT-System [[simple IOT-System]](https://github.com/lzc978/common/tree/master/simple%20IOT-System "simple IOT-System")
 
 - 物联网系统Demo
   - 物联网平台采用node.js、协议栈uart、tcp/ip、http/mqtt
   - esp8266作为物联网设备接入
 
-## tinyRPC [[tinyRPC]](https://www.baidu.com "tinyRPC")
+## tinyRPC [[tinyRPC]](https://github.com/lzc978/common/tree/master/tinyRPC "tinyRPC")
 
 - armv7/cortex-m（c）、x86/linux/win32（c/golang）
   - 嵌入式环境
